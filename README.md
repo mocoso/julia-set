@@ -10,3 +10,10 @@ Requires the following packages are installed
 - Image
 - ImageMagick
 - QuartzImageIO
+
+## To run
+
+```
+$ julia juliaset.jl
+$ open image.png
+```
